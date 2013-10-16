@@ -229,5 +229,6 @@ int samtals( int* hruga )
 	}
 cout << "Kolbrun Freyja" << endl;
 
+
 	return samtala;
 }
