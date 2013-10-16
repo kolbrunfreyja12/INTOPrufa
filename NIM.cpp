@@ -227,6 +227,7 @@ int samtals( int* hruga )
 	{
 		samtala += hruga[ i ];
 	}
+cout << "Kolbrun Freyja" << endl;
 
 	return samtala;
 }
